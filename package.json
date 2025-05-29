@@ -1,0 +1,28 @@
+{
+  "name": "pterodactyl-dashboard",
+  "version": "0.0.0-alpha",
+  "description": "A pterodactyl dashboard for your host.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js --dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XStorm-official/pterodactyl-dashboard.git"
+  },
+  "keywords": [
+    "Host",
+    "Pterodactyl",
+    "Dash",
+    "Dashboard",
+    "Ptero",
+    "Hosting",
+    "Server"
+  ],
+  "author": "Pierre-Louis LESTRIEZ",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/XStorm-official/pterodactyl-dashboard/issues"
+  },
+  "homepage": "https://github.com/XStorm-official/pterodactyl-dashboard#readme"
+}
